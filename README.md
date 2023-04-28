@@ -35,5 +35,5 @@
 </p>
 <h2>Model Prediction</h2>
 <p align="center">
-<img src="https://github.com/NavinBondade/Noise-Removal-From-Sandstone-Microstructure-Using-Noise2Void/blob/main/Graph/Output.png" width="800" height="1000">
+<img src="https://github.com/NavinBondade/Noise-Removal-From-Sandstone-Microstructure-Using-Noise2Void/blob/main/Graph/Output.png" width="800" height="950">
 </p>
