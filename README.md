@@ -16,7 +16,7 @@
 <p align="center">
 <img src="https://github.com/NavinBondade/Noise-Removal-From-Sandstone-Microstructure-Using-Noise2Void/blob/main/Graph/Dataset.png" width="650" height="500">
 </p>
-<h2>What is Super Resolution GAN?</h2>
+<h2>What is Noise2Void (N2V)?</h2>
 <p align="center">
 <img src="https://github.com/NavinBondade/Noise-Removal-From-Sandstone-Microstructure-Using-Noise2Void/blob/main/Graph/maxresdefault.jpg" width="800" height="500">
 </p>
