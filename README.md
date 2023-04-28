@@ -27,11 +27,11 @@
 <h2>Model Training & Testing</h2>   
 <h4>Loss</h4>   
 <p align="center">
-<img src="https://github.com/NavinBondade/Noise-Removal-From-Sandstone-Microstructure-Using-Noise2Void/blob/main/Graph/Loss.png" width="1000" height="350">
+<img src="https://github.com/NavinBondade/Noise-Removal-From-Sandstone-Microstructure-Using-Noise2Void/blob/main/Graph/Loss.png" width="1000" height="300">
 </p>
 <h4>MSE:</h4>  
 <p align="center">
-<img src="https://github.com/NavinBondade/Noise-Removal-From-Sandstone-Microstructure-Using-Noise2Void/blob/main/Graph/MSE.png" width="1000" height="350">
+<img src="https://github.com/NavinBondade/Noise-Removal-From-Sandstone-Microstructure-Using-Noise2Void/blob/main/Graph/MSE.png" width="1000" height="300">
 </p>
 <h2>Model Prediction</h2>
 <p align="center">
