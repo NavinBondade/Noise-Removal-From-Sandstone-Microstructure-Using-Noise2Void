@@ -12,3 +12,7 @@
   <li>Seaborn</li>
   <li>Sklearn</li>
 </ul>
+<h2>Dataset Visualization</h2>
+<p align="center">
+<img src="https://github.com/NavinBondade/Noise-Removal-From-Sandstone-Microstructure-Using-Noise2Void/blob/main/Graph/Dataset.png" width="550" height="500">
+</p>
