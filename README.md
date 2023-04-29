@@ -14,7 +14,7 @@
 </ul>
 <h2>Dataset Visualization</h2>
 <p align="center">
-<img src="https://github.com/NavinBondade/Noise-Removal-From-Sandstone-Microstructure-Using-Noise2Void/blob/main/Graph/noisy_data.png" width="650" height="500">
+<img src="https://github.com/NavinBondade/Noise-Removal-From-Sandstone-Microstructure-Using-Noise2Void/blob/main/Graph/noisy_data.png" width="650" height="700">
 </p>
 <h2>What is Noise2Void (N2V)?</h2>
 <p align="center">
