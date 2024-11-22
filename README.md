@@ -4,7 +4,7 @@
   <img align="center"  src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here%20(4).png?raw=true"/>
 </a>
 </p>
-<p align="center">
+<p align="center">  
 <img src="https://github.com/NavinBondade/Noise-Removal-From-Sandstone-Microstructure-Using-Noise2Void/blob/main/Graph/a.jpg">
 </p>
 <p>Sometimes tomography images don't come out as expected and they might contain lots of noise. Redoing this process of capturing images can be expensive or physically not possible. To solve this problem, in this project, I have developed a deep learning system that takes the noisy CT images of sandstone as input and produces clean images. </p>
